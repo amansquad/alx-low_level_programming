@@ -1,5 +1,3 @@
-@ 12, [03/06/2022 3:10 AM]
-[In reply to Abdulahi]
 #include<stdio.h>
 /**
 * main - Entry point
