@@ -12,11 +12,11 @@ while (ch <= 'z')
 putchar(ch);
 ch++;
 }
-char c = 'A';
-while (c <= 'Z')
+char cha = 'A';
+while (cha <= 'Z')
 {
-putchar(c);
-c++;
+putchar(cha);
+cha++;
 }
 printf("\n");
 return (0);
