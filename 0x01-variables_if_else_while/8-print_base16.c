@@ -12,11 +12,11 @@ while (i <= '9')
 putchar(i);
 i++;
 }
-char letter = 'a';
-while (letter < 'g')
+char i2f = 'a';
+while (i2f < 'g')
 {
-putchar(letter);
-letter++;
+putchar(i2f);
+i2f++;
 }
 putchar('\n');
 return (0);
