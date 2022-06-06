@@ -6,7 +6,7 @@
  */
 int main(void)/*prints the alphabet in lowercase, followed by a new line.*/
 {
-char i = '0';
+int i = '0';
 while (i <= '9')
 {
 putchar(i);
