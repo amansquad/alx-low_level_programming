@@ -13,11 +13,11 @@ putchar(n);
 n++;
 }
 
-char _g_ = 'a';
-while (_g_ <= 'f')
+char CH = 'a';
+while (CH <= 'f')
 {
-putchar(_g_);
-_g_++;
+putchar(CH);
+CH++;
 }
 
 putchar('\n');
