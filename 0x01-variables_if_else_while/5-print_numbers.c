@@ -1,15 +1,17 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 /**
  * main - Entry point
  *
  * Return: Always 0 (Success)
  */
-int main(void) /*positive or negative*/
+int main(void)/*prints the alphabet in lowercase, followed by a new line.*/
 {
-for (int n=0 ; n<10 ; n++)
-printf("%d", n);
-
+int n = 0;
+while (n < 10)
+{
+printf("%d",n);
+n++;
+}
+printf("\n");
 return (0);
 }
