@@ -6,19 +6,20 @@
  */
 int main(void)/*prints the alphabet in lowercase, followed by a new line.*/
 {
-int i = '0';
-while (i <= '9')
+int n = '0';
+while (n <= '9')
 {
-putchar(i);
-i++;
+putchar(n);
+n++;
 }
-char x;
-x = 'a';
-while (x < 'g')
+
+char _g_ = 'a';
+while (_g_ <= 'f')
 {
-putchar(x);
-x;
+putchar(_g_);
+_g_++;
 }
+
 putchar('\n');
 return (0);
 }
