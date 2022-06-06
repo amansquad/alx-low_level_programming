@@ -6,13 +6,13 @@
  */
 int main(void)/*prints the alphabet in lowercase, followed by a new line.*/
 {
-char ch = 'a';
+char ch = 'a', cha = 'A';
 while (ch <= 'z')
 {
 putchar(ch);
 ch++;
 }
-char cha = 'A';
+
 while (cha <= 'Z')
 {
 putchar(cha);
