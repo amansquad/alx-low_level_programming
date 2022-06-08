@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 /**
  * main - Entry point
@@ -7,7 +6,6 @@
  */
 int main(void)/*prints the alphabet in lowercase, followed by a new line.*/
 {
-printf("_putchar\n");
 _putchar('_');
 _putchar('p');
 _putchar('u');
