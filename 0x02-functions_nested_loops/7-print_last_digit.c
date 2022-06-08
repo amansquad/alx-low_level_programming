@@ -2,7 +2,6 @@
 /**
  * print_last_digit -> prints the last digit of a number
  * @n: a number
- * @x: a number
  * Return: x
  */
 int print_last_digit(int n)
