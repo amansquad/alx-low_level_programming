@@ -4,12 +4,12 @@
  *
  * Return: Always 0 (Success)
  */
-void print_alphabet(void)
+void print_alphabet(void) /*prints the alphabet, in lowercase, followed by a new line*/
 {
 int i;
-for (i = 'a' ;i <= 'z'; i++){
+for (i = 'a' ; i <= 'z'; i++)
 _putchar(i);
-}
+
 _putchar('\n');
 
 }
