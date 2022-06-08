@@ -5,7 +5,8 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void){/*prints the alphabet in lowercase, followed by a new line.*/
+int main(c)/*prints the alphabet in lowercase, followed by a new line.*/
+{}
 printf("_putchar\n");
 return (0);
 }
