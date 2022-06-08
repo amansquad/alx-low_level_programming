@@ -4,7 +4,7 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)/*prints the alphabet in lowercase, followed by a new line.*/
+int main(void)
 {
 _putchar('_');
 _putchar('p');
