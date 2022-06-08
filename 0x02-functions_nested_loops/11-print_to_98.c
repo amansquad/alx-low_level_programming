@@ -10,6 +10,7 @@ while ( n <= 98)
 {
 _putchar(n);
 _putchar(',');
+n++;
 }
 _putchar('\n');
 }
