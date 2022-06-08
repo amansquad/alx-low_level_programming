@@ -4,7 +4,7 @@
  *
  * Return: Always 0 (Success)
  */
-void print_alphabet(void)/*prints the alphabet followed by a new line*/
+void print_alphabet(void)/*prints the alphabet, followed by a new line.*/
 {
 int i;
 for (i = 'a' ; i <= 'z'; i++)
