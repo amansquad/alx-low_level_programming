@@ -12,9 +12,5 @@ n = -n;
 
 x = n % 10;
 _putchar(x + '0');
-
-if (n == INT_MIN)
-return ('88');
-else
 return (x);
 }
