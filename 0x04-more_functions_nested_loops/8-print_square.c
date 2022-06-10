@@ -17,6 +17,6 @@ for (i = 0; i < size; i++)
 _putchar(35);
 _putchar('\n');
 }
-_putchar('\n');
+
 }
 }
