@@ -1,7 +1,6 @@
 #include "main.h"
 /**
-* print_numbers -> this is a function to check upper case of alphabet
-* Return: something but success
+* print_numbers -> print numbers
 */
 void print_numbers(void)
 {
