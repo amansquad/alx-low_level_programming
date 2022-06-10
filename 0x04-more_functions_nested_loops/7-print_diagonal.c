@@ -18,6 +18,6 @@ _putchar(' ');
 _putchar(92);
 _putchar('\n');
 }
-_putchar('\n');
+
 }
 }
